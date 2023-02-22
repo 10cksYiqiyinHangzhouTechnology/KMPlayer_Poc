@@ -15,7 +15,7 @@ SHFOLDER.dll is missing so an attacker can use a malicious dll with same name an
 ## Vulnerability type
 CWE-427: Uncontrolled Search Path Element
 
-## DLL planting vulnerability type : 
+## DLL planting vulnerability type
 Current Working Directory (CWD) DLL planting 
 
 ## Impact
