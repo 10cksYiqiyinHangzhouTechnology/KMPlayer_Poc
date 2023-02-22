@@ -3,10 +3,10 @@
 ## The name of an affected Product
 KMPlayer x32
 
-## Affected Version
+## Affected version
 KMPlayer_4.2.2.73(Latest)
 
-## Product Address: 
+## Product address: 
 https://www.kmplayer.com/pc
 
 ## Description
