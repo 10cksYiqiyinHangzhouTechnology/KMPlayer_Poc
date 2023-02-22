@@ -32,7 +32,7 @@ kmp32# tree
 
 ```
 
-## Poc code
+## Poc source code
 ```C++
 // dllmain.cpp
 #include "pch.h"
