@@ -9,7 +9,7 @@ KMPlayer x32
 ## Affected version
 KMPlayer_4.2.2.73(Latest)
 
-## Product address: 
+## Product download address
 https://www.kmplayer.com/pc
 
 ## Description
