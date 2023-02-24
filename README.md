@@ -25,7 +25,7 @@ CWE-427: Uncontrolled Search Path Element
 Current Working Directory (CWD) DLL planting 
 
 ## POC video
-[![KMPlayer poc](https://youtu.be/7bh2BQOqxFo)
+[Youtube](https://youtu.be/7bh2BQOqxFo)
 
 ## POC files download
 https://drive.google.com/file/d/1bdYaDmtWhnjaHkzv3bZ4PUSMzDJ8JjSV/view?usp=sharing
