@@ -1,5 +1,8 @@
 # KMPlayer_Poc
 
+## Vendor of the product
+PandoraTV.
+
 ## The name of an affected Product
 KMPlayer x32
 
@@ -10,7 +13,10 @@ KMPlayer_4.2.2.73(Latest)
 https://www.kmplayer.com/pc
 
 ## Description
-SHFOLDER.dll is missing so an attacker can use a malicious dll with same name and can get a admin privileges and also perform a way of persistence on the victim machine.
+KMPlayer  was discovered to contain a DLL hijacking vulnerability that allows attackers to escalate privileges and execute arbitrary code via a crafted DLL.
+
+## Affected component
+SHFOLDER.dll
 
 ## Vulnerability type
 CWE-427: Uncontrolled Search Path Element
@@ -18,10 +24,10 @@ CWE-427: Uncontrolled Search Path Element
 ## DLL planting vulnerability type
 Current Working Directory (CWD) DLL planting 
 
-## Impact
-An attacker could exploit this vulnerability by placing a malicious DLL file on the targeted system. This file will execute when the vulnerable application launches. A successful exploit could allow the attacker to execute arbitrary code on the targeted system with SYSTEM PRIVILEGES as well the attacker can maintain persistence on the target system.
+## POC video
+[![KMPlayer poc](https://youtu.be/7bh2BQOqxFo)
 
-## POC files address
+## POC files download
 https://drive.google.com/file/d/1bdYaDmtWhnjaHkzv3bZ4PUSMzDJ8JjSV/view?usp=sharing
 ```bash
 kmp32# tree
